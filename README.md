@@ -1,9 +1,8 @@
 socials:
+
 discord: `_ry3n.`
-steam: `_ry3n`
 
-send a req and we might play some games idk
-
+steam: `ry3n`
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=k1nxx&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
