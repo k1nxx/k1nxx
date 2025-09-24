@@ -1,8 +1,6 @@
-socials:
+# wazzu
 
-discord: `_ry3n.`
-
-steam: `ry3n`
+im ryan 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=k1nxx&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
