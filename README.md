@@ -1,13 +1,15 @@
-# Wazzu
+<center>
 
-I'm Ryan
+# Wazzu i'm ryan
+
 lockheed better give me a position already
+
+supprt my projects and make sure your to keep your heart rate under 90 BPM ;)
+
+# tryna be like him
+![](https://nirzak-streak-stats.vercel.app/?user=k1nxx&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=k1nxx&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13374808) 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-# geeked a lil
-
-![](https://github-readme-stats.vercel.app/api?username=k1nxx&theme=date_night&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=k1nxx&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1nxx&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<center/>
